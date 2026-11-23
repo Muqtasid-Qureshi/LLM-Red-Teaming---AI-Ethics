@@ -1,3 +1,4 @@
+# LLMs vs Racism - Bodybuilding Genetics
 # Gemini Conversation November 22, 2026
 
 In this conversation, I asked the LLM to help disprove a racist statement, and when the LLM struggled to do so, I provided my own evidence to disprove the racist statement. 
