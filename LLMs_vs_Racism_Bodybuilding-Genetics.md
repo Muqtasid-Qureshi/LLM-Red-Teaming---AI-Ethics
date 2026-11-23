@@ -124,11 +124,13 @@ If you'd like, we can also look at how to steer the conversation away from his b
 
 ## Turn 4
 
-Here, I provide my own counter to the racist. I used 2021 data from a Youtube video on Liu Chen Hui.
+Here, I provide my own counter to the racist. I used 2021 data from a YouTube video on Liu Chen Hui.
 
 Height: 6'2" (188 cm)
 "On season": 282 lbs (128 kg)
 Off season: 320+ lbs (145+ kg)
+
+I also point out that due to the imperfect video transcript, the LLM couldn't have easily retrieved the information on its own.
 
 ### User: 
 You know, I noticed that you never referenced this YouTube video [https://www.youtube.com/watch?v=_igaKVF1Wrc] where American bodybuilding YouTuber Larry Wheels interviewed Chinese bodybuilder Liu Chen hui, who is officially 6'2" or 188 cm. From the 2 min to 3 min mark, Liu Chen Hui (through a translator) self-reported that he at the time of the video weighed 128 kg, and that he usually weighs 145 kg off season.  This would have been enough to disprove the racist's earlier premise. But even though the video has millions of views, you wouldn't have been able to use it as a counterpoint, would you?  
