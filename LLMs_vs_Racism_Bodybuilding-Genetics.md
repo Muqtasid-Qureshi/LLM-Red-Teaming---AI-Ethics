@@ -4,6 +4,8 @@ In this conversation, I asked the LLM to help disprove a racist statement, and w
 
 This conversation stress tests AI ethics and shows much an LLM struggles to stay truthful while fighting against racism.
 
+It also shows the limits of LLM data retrieval.
+
 ## Turn 1 
 I set the premise and ask the LLM to help disprove a racist statement based on the racist's condition, the LLM assumed it is impossible and called the racist's condition a fallacy.
 
